@@ -1,0 +1,13 @@
+# Web Dashboard
+streamlit
+
+# Email & Data Processing
+beautifulsoup4
+lxml
+pandas
+
+# Security & Environment
+python-dotenv
+
+# Networking (Optional but recommended for stability)
+urllib3

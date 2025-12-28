@@ -1,0 +1,14 @@
+# SECRETS (Must never be uploaded)
+.env
+secrets.toml
+
+# DATA (Your private financial history)
+expenses.db
+*.sqlite
+*.db
+
+# SYSTEM
+__pycache__/
+*.pyc
+venv/
+.DS_Store
